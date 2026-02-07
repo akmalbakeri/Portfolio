@@ -28,11 +28,11 @@ Welcome to my data portfolio! This repo is where you can launch into my projects
 
 ## 🐍 Python
 
-| Project Link | Project Description | Tools  |
-| :--- | :--- | :--- |
-| **[Cafe Sales ](https://github.com/akmalbakeri/data-cleaning/tree/main/dirty_cafe_sale)** |  Data Cleaning Sales data from Cafe |  Pandas  |
-|   |    |   |  
-|    |     |       |  
+| Project Link | Area | Project Description | Tools  |
+| :--- | :--- | :--- | :--- |
+| **[Cafe Sales ](https://github.com/akmalbakeri/data-cleaning/tree/main/dirty_cafe_sale)** | Data Cleaning  | Data Cleaning Sales data from Cafe |  Pandas  |   |
+|   |    |   |    |
+|    |     |       |    |
 
 ## 🎨 Tableau
 *(Section under construction — Add links to your Tableau Public vizzes here!)*
