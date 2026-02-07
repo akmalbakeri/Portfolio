@@ -5,7 +5,7 @@ Welcome to my data portfolio! This repo is where you can launch into my projects
 ---
 
 ## 📚 Table of Contents
-* [[Go to Excel](#-excel)
+* [Go to Excel](#-Excel)
 * [SQL](#-sql)
 * [Python](#-python)
 * [Tableau](#-tableau)
@@ -13,12 +13,13 @@ Welcome to my data portfolio! This repo is where you can launch into my projects
 
 ---
 
-## ⚙️ Excel
+## Excel
 
-| Project Link | Completion Date | Tools | Project Description |
-| :--- | :--- | :--- | :--- |
-| **[🚗 Uber Taxi](https://github.com/yourusername/uber-etl)** | May 2023 | Python, GCP (Storage, Compute Engine, BigQuery), Mage, Looker Studio | Developed and implemented an end-to-end ETL pipeline for processing NYC Trip Record data. Features include extraction, transformation with Python, fact/dimensional modeling, orchestration via Mage, and a Looker Studio dashboard. |
-| **[🐶 Dog Adoption](https://github.com/yourusername/dog-adoption)** | Mar 2023 | Python, PostgreSQL, Jupyter Notebook 
+| Project Link | Project Description | Tools  |
+| :--- | :--- | :--- |
+| **[Movies](https://github.com/akmalbakeri/Excel/tree/main/data_cleaning_excel_movies)** | Cleaning movie data after being scrapped |  Trim, Text to Column Parsing, Find & Replace |
+| **[Restaurant Order](https://github.com/akmalbakeri/Excel/tree/main/restaurant_order_maven)** | Analyze restaurant order  |  Merge with XLOOKUP, Analyse with PivotTable |  
+| **[Manufacturing Soda](https://github.com/akmalbakeri/Excel/tree/main/manufacturing_downtime_maven)** | Analyze and visualize downtime at manufacturing production of soda  |  Normalize data with POWER QUERY, Create relationship with DATA MODEL, Visualize data manually using EXCEL  |  
 
 ---
 
