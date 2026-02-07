@@ -5,11 +5,10 @@ Welcome to my data portfolio! This repo is where you can launch into my projects
 ---
 
 ## 📚 Table of Contents
-* [Go to Excel](#-Excel)
+* [Go to Excel](#-excel)
 * [SQL](#-sql)
 * [Python](#-python)
 * [Tableau](#-tableau)
-* [Katie's Guides](#-katies-guides)
 
 ---
 
@@ -32,5 +31,5 @@ Welcome to my data portfolio! This repo is where you can launch into my projects
 ## 🎨 Tableau
 *(Section under construction — Add links to your Tableau Public vizzes here!)*
 
-## 📖 Katie's Guides
+## 📖 
 *(Section under construction — Documentation and tutorials.)*
