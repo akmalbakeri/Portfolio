@@ -35,7 +35,7 @@ Welcome to my data portfolio! This repo is where you can launch into my projects
 
 | Project Link | Area | Project Description | Tools  |
 | :--- | :--- | :--- | :--- |
-| **[Cafe Sales ](https://github.com/akmalbakeri/data-cleaning/tree/main/dirty_cafe_sale)** | Data Cleaning  | Data Cleaning Sales data from Cafe |  Pandas  |   |
+| **[Cafe Sales ](https://github.com/akmalbakeri/Python/tree/main/dirty_cafe_sale )** | Data Cleaning  | Data Cleaning Sales data from Cafe |  Pandas  |   |
 | [Bank Customer Churn](https://github.com/akmalbakeri/Python/tree/main/bank_churn_py)  |  Data Cleaning & EDA | Analysis of what factors determine churn via correlation matrix | Pandas, Matplotlib,Seaborn   |
 | [Shopping Behaviour](https://github.com/akmalbakeri/Python/tree/main/shopping_behaviour) |  Data Visualisation   |  Analyze customer preferences from purchase transaction |  Pandas, Matplotlib,Seaborn  |
 
