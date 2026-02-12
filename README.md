@@ -5,10 +5,11 @@ Welcome to my data portfolio! This repo is where you can launch into my projects
 ---
 
 ## 📚 Table of Contents
-* [Go to Excel](#-excel)
+
+* [Excel](#excel)
 * [SQL](#-sql)
 * [Python](#-python)
-* [Tableau](#-tableau)
+* 
 
 ---
 
@@ -24,7 +25,11 @@ Welcome to my data portfolio! This repo is where you can launch into my projects
 
 ## 📊 SQL 
 
+| Project Link | Area | Project Description | Tools  |
+| :--- | :--- | :--- | :--- |
+| **[Nashville Housing](https://github.com/akmalbakeri/SQL/tree/main/Nashville_sql)** | Data Cleaning  | Inspired by Alex the Analyst YT , this is same data cleaning project but with PostgresSQL, instead of MySQL |  PostgresSQL  |  
 
+---
 
 ## 🐍 Python
 
