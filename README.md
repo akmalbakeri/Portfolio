@@ -1,5 +1,5 @@
 # 🗺 Akmal's Portfolio
-
+! Still under construction !  
 Welcome to my data portfolio! This repo is where you can launch into my projects
 
 ---
@@ -27,6 +27,7 @@ Welcome to my data portfolio! This repo is where you can launch into my projects
 
 | Project Link | Area | Project Description | Tools  |
 | :--- | :--- | :--- | :--- |
+| [Superstore](https://github.com/akmalbakeri/SQL/tree/main/superstore_sql)| Data Exploration | Analyzed retail transactions from a US-based superstore to uncover sales trends, | MySQL |
 | **[Nashville Housing](https://github.com/akmalbakeri/SQL/tree/main/Nashville_sql)** | Data Cleaning  | Inspired by Alex the Analyst YT , this is same data cleaning project but with PostgresSQL, instead of MySQL |  PostgresSQL  |  
 
 ---
