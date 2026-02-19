@@ -28,6 +28,7 @@ Welcome to my data portfolio! This repo is where you can launch into my projects
 | Project Link | Area | Project Description | Tools  | Fuctions used |
 | :--- | :--- | :--- | :--- | :--- |
 | [Superstore SQL](https://github.com/akmalbakeri/SQL/tree/main/superstore_sql)| Data Exploration | Analyzed retail transactions from a US-based superstore to uncover sales trends | MySQL | LAG Partition, CTE |
+| [Hospital record](https://github.com/akmalbakeri/SQL/tree/main/Hospital_record) | Data Exploration & Analysis | Answering questions from Maven Analytics for Hospital patient record | MySQL | LAG Partition, CTE, CASE |
 | **[Nashville Housing](https://github.com/akmalbakeri/SQL/tree/main/Nashville_sql)** | Data Cleaning  | Inspired by Alex the Analyst YT , this is same data cleaning project but with PostgresSQL, instead of MySQL |  PostgresSQL  |   |
 
 ---
@@ -37,7 +38,7 @@ Welcome to my data portfolio! This repo is where you can launch into my projects
 | Project Link | Area | Project Description | Tools  |
 | :--- | :--- | :--- | :--- |
 | [Cafe Sales ](https://github.com/akmalbakeri/Python/tree/main/dirty_cafe_sale ) | Data Cleaning  | Data Cleaning Sales data from Cafe |  Pandas  |   |
-| [Bank Customer Churn](https://github.com/akmalbakeri/Python/tree/main/bank_churn_py)  |  Data Cleaning & EDA | Analysis of what factors determine churn via correlation matrix | Pandas, Matplotlib,Seaborn   |
+| [Bank Customer Churn](https://github.com/akmalbakeri/Python/tree/main/bank_churn_py)  |  Data Cleaning & Visual | Analysis of what factors determine churn via correlation matrix | Pandas, Matplotlib,Seaborn   |
 | [Shopping Behaviour](https://github.com/akmalbakeri/Python/tree/main/shopping_behaviour) |  Data Visualisation   |  Analyze customer preferences from purchase transaction |  Pandas, Matplotlib,Seaborn  |
 
 ## 🎨 Visualization
