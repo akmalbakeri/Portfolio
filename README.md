@@ -46,5 +46,5 @@ Welcome to my data portfolio! This repo is where you can launch into my projects
 | Project Link | Area | Project Description | Tools  |
 | :--- | :--- | :--- | :--- |
 | [Superstore Power BI ](https://github.com/akmalbakeri/Visualization/tree/main/Superstore) | Data Visualization & Analysis |  Analyzed retail transactions from a US-based superstore to uncover sales trends, continuation from [here](https://github.com/akmalbakeri/SQL/tree/main/superstore_sql) | Power BI |
-| [Hospital Record Dashboard 1 Tableau ](https://public.tableau.com/app/profile/akmal.bakeri/viz/hospitalrecord_17715959336800/Dashboard1) ,  [Hospital Record Dashboard 2 Tableau](https://public.tableau.com/app/profile/akmal.bakeri/viz/hospitalrecord-2/Dashboard2)| Data Visualization | Answering query from Maven Analytics Hospital patient record, continuation from [here](https://github.com/akmalbakeri/SQL/blob/main/Hospital_record/questionbased.sql)| Tableau |
+| [Hospital Record Tableau](https://github.com/akmalbakeri/Visualization/tree/main/Hospital_record) | Data Visualization | Answering query from Maven Analytics Hospital patient record, continuation from [here](https://github.com/akmalbakeri/SQL/blob/main/Hospital_record/questionbased.sql)| Tableau |
 
