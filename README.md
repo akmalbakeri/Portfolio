@@ -1,5 +1,4 @@
-# 🗺 Akmal's Data Portfolio
-! Still under construction !  
+# 🗺 Akmal's Data Portfolio  
 Welcome to my data portfolio! This repo is where you can launch into my projects
 
 ---
