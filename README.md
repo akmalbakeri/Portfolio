@@ -26,9 +26,9 @@ Welcome to my data portfolio! This repo is where you can launch into my projects
 
 | Project Link | Area | Project Description | Tools  | Fuctions used |
 | :--- | :--- | :--- | :--- | :--- |
-| [Superstore SQL](https://github.com/akmalbakeri/SQL/tree/main/superstore_sql)| Data Exploration | Analyzed retail transactions from a US-based superstore to uncover sales trends | MySQL | LAG Partition, CTE |
-| [Hospital record SQL](https://github.com/akmalbakeri/SQL/tree/main/Hospital_record) | Data  Analysis | Answering query from Maven Analytics for Hospital patient record | MySQL | LAG Partition, CTE, CASE |
-| [Nashville Housing SQL](https://github.com/akmalbakeri/SQL/tree/main/Nashville_sql) | Data Cleaning  | Inspired by Alex the Analyst YT , this is same data cleaning project but with PostgresSQL, instead of MySQL |  PostgresSQL  |   |
+| [Superstore SQL](https://github.com/akmalbakeri/SQL/tree/main/superstore_sql)| Data Exploration | Analyzed retail transactions from a US-based superstore to uncover sales trends. Proceeded with visualization [here](https://github.com/akmalbakeri/Visualization/tree/main/Superstore) | MySQL | LAG Partition, CTE |
+| [Hospital record SQL](https://github.com/akmalbakeri/SQL/tree/main/Hospital_record) | Data  Analysis | Answering query from Maven Analytics for Hospital patient record. Proceeded with visualization [here](https://github.com/akmalbakeri/Visualization/tree/main/Hospital_record) | MySQL | LAG Partition, CTE, CASE |
+| [Nashville Housing SQL](https://github.com/akmalbakeri/SQL/tree/main/Nashville_sql) | Data Cleaning  | Inspired by Alex the Analyst YT , this is same data cleaning project but with PostgresSQL, instead of MySQL |  PostgresSQL  | CTE,Row Num Partition |
 
 ---
 
